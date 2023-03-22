@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "patienthelp1",
     "public": "public",
     "ignore": [
       "firebase.json",
